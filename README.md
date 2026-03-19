@@ -15,3 +15,11 @@
 -if문
 -for문
 -함수
+## 2주차
+-DataFrame
+-열 선택
+-조건 필터링
+-read_csv()
+-head,columns,shape
+-정렬
+-결측치확인
