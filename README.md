@@ -23,3 +23,10 @@
 -head,columns,shape
 -정렬
 -결측치확인
+## 3주차
+- player.csv / teams.csv 읽기
+- 열 선택 / 여러 열 선택
+- 조건 필터링
+- 정렬
+- 결측치 확인
+- week3_pandas_practice 정리
