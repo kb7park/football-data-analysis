@@ -89,3 +89,10 @@ Understat 공격 데이터 기준으로 음바페는 득점, 슈팅, xG 등에�
 
 ## 8주차
 statbomb open data를 이용해서 경기의 이벤트 데이터를 가져와 mplsoccer를 이용해서 히트맵을 만들어보았다
+### 9주차
+SQL기본문법
+-전체조회
+-WHERE(조건문)
+-DISTINCT(중복제거)
+-AND OR
+-ORDER BY DESC ASC
