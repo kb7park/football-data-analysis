@@ -89,6 +89,7 @@ Understat 공격 데이터 기준으로 음바페는 득점, 슈팅, xG 등에�
 
 ## 8주차
 statbomb open data를 이용해서 경기의 이벤트 데이터를 가져와 mplsoccer를 이용해서 히트맵을 만들어보았다
+
 ### 9주차
 SQL기본문법
 -전체조회
@@ -96,3 +97,35 @@ SQL기본문법
 -DISTINCT(중복제거)
 -AND OR
 -ORDER BY DESC ASC
+
+###10주차
+
+## 학습 목표
+SQL 집계 함수를 활용해 축구 선수 데이터를
+팀과 포지션 기준으로 분석했다.
+
+## 사용한 기술
+- Python
+- pandas
+- SQLite
+- SQL
+
+## 학습한 SQL
+- COUNT
+- SUM
+- AVG
+- MIN / MAX
+- GROUP BY
+- HAVING
+- WHERE
+- ORDER BY
+
+## 분석 주제
+1. 팀별 공격 생산성
+2. 팀별 슈팅 생산량
+3. 팀별 평균 패스
+4. 포지션별 수비 관여도
+5. 팀별 최고 득점 기록
+
+## 데이터 한계
+실제 선수 이름을 사용했지만, 경기기록은 SQL연습을 위한 가상의 데이터이다.
